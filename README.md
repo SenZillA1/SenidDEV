@@ -10,12 +10,6 @@ Ova stranica je osmišljena kao moja lična prezentacija i portfelj, gdje se mo�
 - **Services** – Sekcija u kojoj možete saznati više o uslugama koje nudim i načinima kako me možete angažovati.
 - **Feedback** – Sekcija u kojoj posjetioci mogu ostaviti mišljenja, komentare i prijedloge.
 
-## 🎨 Tehnologije korištene
-
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- (Opcionalno: navedi i biblioteke ili frameworke ako koristiš, npr. jQuery, Bootstrap, GSAP itd.)
 
 ## ✨ Funkcionalnosti
 
